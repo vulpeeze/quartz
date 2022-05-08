@@ -6,9 +6,10 @@ tags:
 enableToc: false # do not show a table of contents on this page
 ---
 ```
+
 > [!infobox]+  
 > # Luna Himemori
-> ![[FHam1VAXwAAU4vf.jpg]]  
+> ![[FHam1VAXwAAU4vf.jpg|200]]  
 > ###### Stats  
 > Type |  Stat |  
 > ---|---|  
