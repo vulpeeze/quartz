@@ -1,10 +1,9 @@
 // Add your own CSS here!
-@use 'wiki_infobox.css';
-@use 'p.css';
+@use 'wiki.scss';
+@use 'p.scss';
 
 :root {
   --light: #faf8f8;
-  --dark: #141021;
   --secondary: #284b63;
   --tertiary: #84a59d;
   --visited: #afbfc9;
