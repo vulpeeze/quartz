@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "0242228d73b1ad1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a9e67be465132f3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Nanoraaaaaaaaaa.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f388a65f36bca42",
+    "type": "split",
+    "children": [
+      {
+        "id": "59fd49bbff3b4471",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "953485dc97349e91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7020c6841a0d0fd7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c110697e169abac3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9cb6bbbf13efdc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fd763192b84c529",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nanoraaaaaaaaaa.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0d9b9203dd09247c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Nanoraaaaaaaaaa.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6a9e67be465132f3",
+  "lastOpenFiles": [
+    "Nanoraaaaaaaaaa.md",
+    "Characters/Hello there.md",
+    "AF0210.webp.md",
+    "Characters/emo.png",
+    "Characters/AF0210.webp",
+    "Untitled/Hello there.md",
+    "Untitled/Linky link link.md",
+    "Image.png.md"
+  ]
+}
